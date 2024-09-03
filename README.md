@@ -13,28 +13,26 @@ This website is an educational institute platform developed using HTML, CSS, and
         <li><b>Login Page</b> - For both admins and users to log in to their respective dashboards.</li>
     </ul>
 
-    <h2>Access Levels</h2>
-    <ul>
-        <li><b>Admins</b>: Have full access to the website, including the ability to manage user accounts, add or remove courses, and modify institute information.</li>
-        <li><b>Users</b>: Can view course information, register for courses, and access their personal dashboard.</li>
-    </ul>
+   <h2>Access Levels</h2>
+<ul>
+    <li><b>Admins</b>: Have full access to the website, including the ability to manage user accounts, add or remove courses, and modify institute information.</li>
+    <li><b>Users</b>: Can view course information, register for courses, and access their personal dashboard.</li>
+</ul>
 
-    <h2>Technologies Used</h2>
-    <ul>
-        <li><b>HTML</b> - The core language used to structure the website's content.</li>
-        <li><b>CSS</b> - Used for styling the website, including layout, colors, and fonts.</li>
-        <li><b>PHP</b> - A server-side scripting language used for handling form submissions, processing data, and managing user authentication.</li>
-    </ul>
+<h2>Technologies Used</h2>
+<ul>
+    <li><b>HTML</b> - The core language used to structure the website's content.</li>
+    <li><b>CSS</b> - Used for styling the website, including layout, colors, and fonts.</li>
+    <li><b>PHP</b> - A server-side scripting language used for handling form submissions, processing data, and managing user authentication.</li>
+</ul>
 
-    <h2>Additional Notes</h2>
-    <ul>
-        <li><b>Design Elements</b>: The website incorporates various design elements such as background images, borders, and floating elements to enhance visual appeal.</li>
-        <li><b>Navigation</b>: A navigation menu is provided on the index page to allow users to easily navigate between different pages.</li>
-        <li><b>Forms</b>: The registration and login pages utilize HTML forms to collect user information and authenticate users.</li>
-        <li><b>CSS Styling</b>: The website's appearance is customized using CSS styles, including class selectors, navigation lists, form editing, and paragraph styling.</li>
-        <li><b>Used Tags</b>: A variety of HTML tags are employed, including class selectors, ID selectors, group selectors, div tags, span tags, text decoration, situations, background images, text formatting, entities, style sheets, paragraph padding, borders, margins, ordered, unordered, and definition lists.</li>
-        <li><b>Authentication</b>: The website implements a user authentication system to ensure that only authorized users can access specific pages and features.</li>
-        <li><b>Security</b>: Appropriate security measures are in place to protect user data and prevent unauthorized access.</li>
-    </ul>
-
-    
+<h2>Additional Notes</h2>
+<ul>
+    <li><b>Design Elements</b>: The website incorporates various design elements such as background images, borders, and floating elements to enhance visual appeal.</li>
+    <li><b>Navigation</b>: A navigation menu is provided on the index page to allow users to easily navigate between different pages.</li>
+    <li><b>Forms</b>: The registration and login pages utilize HTML forms to collect user information and authenticate users.</li>
+    <li><b>CSS Styling</b>: The website's appearance is customized using CSS styles, including class selectors, navigation lists, form editing, and paragraph styling.</li>
+    <li><b>Used Tags</b>: A variety of HTML tags are employed, including class selectors, ID selectors, group selectors, div tags, span tags, text decoration, situations, background images, text formatting, entities, style sheets, paragraph padding, borders, margins, ordered, unordered, and definition lists.</li>
+    <li><b>Authentication</b>: The website implements a user authentication system to ensure that only authorized users can access specific pages and features.</li>
+    <li><b>Security</b>: Appropriate security measures are in place to protect user data and prevent unauthorized access.</li>
+</ul>
