@@ -36,3 +36,5 @@ This website is an educational institute platform developed using HTML, CSS, and
     <li><b>Authentication</b>: The website implements a user authentication system to ensure that only authorized users can access specific pages and features.</li>
     <li><b>Security</b>: Appropriate security measures are in place to protect user data and prevent unauthorized access.</li>
 </ul>
+<h2>Author</h2>
+<p><strong>Nisansala Amarasinghe</strong></p>
