@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<script>
+function validateForm(){
+	var x=document.forms["myform"]["fname"].value;
+	if(x.value==null||x.value==" "){
+		alert("First name must be filled");
+		return false;
+	}
+}
+</script>
+</head>
+
+<body>
+<form name="myform" action="demo_form.asp" onsubmit="return validateForm()" method="post">
+
+First Name:<input type="text" name="fname">
+<input type="submit" value="submit">
+
+</body>
+</html>
+
+
+var a = doucument.forms["myform"].element["fname"].value;
+	if (a.value==null||a.value==" "){
+		alert("First name must be filled out");
+		return false;
+		}
+		
+	var b = doucument.forms["myform"].element["lname"].value;
+	if (b.value==null||b.value==" "){
+		alert("Last name must be filled out");
+		return false;
+		}
+		
+	var c = doucument.forms["myform"].element["dob"].value;
+	if (c.value==null||c.value==" "){
+		alert("Date of Birth name must be filled out");
+		return false;
+		}
+		
+	var d = doucument.myform.nic.value;
+	if (isNaN(nic)){
+		document.getElementById("numloc".innerHTML="Enter Numerical values only";
+		return false;
+		}else{
+		return true;
+	}
+	
+	var e = doucument.forms["myform"].element["gender"].value;
+	if (e.value==null||e.value==" "){
+		alert("Gender name must be filled out");
+		return false;
+		}
+	
+	var f = doucument.forms["myform"].element["email"].value;
+	if (f.value==null||f.value==" "){
+		alert("Email name must be filled out");
+		return false;
+		}
