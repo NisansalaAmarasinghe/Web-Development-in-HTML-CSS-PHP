@@ -1,9 +1,7 @@
 # Web-Development-in-HTML-CSS-PHP
 This website is an educational institute platform developed using HTML, CSS, and PHP. It provides information about the institute, its courses, facilities, officers, and registration processes. It features separate access levels for admins and users.
-<h2>Description</h2>
-    <p>This website is an educational institute platform developed using HTML, CSS, and PHP. It provides information about the institute, its courses, facilities, officers, and registration processes. **It features separate access levels for admins and users.**</p>
 
-    <h2>Pages</h2>
+<h2>Web Pages</h2>
     <ul>
         <li><b>Index Page</b> - The main landing page, featuring an overview of the institute, navigation links, and key information.</li>
         <li><b>Admin Dashboard</b> - Accessible only to admins, this page provides tools for managing user accounts, courses, and other institute data.</li>
@@ -38,3 +36,5 @@ This website is an educational institute platform developed using HTML, CSS, and
         <li><b>Authentication</b>: The website implements a user authentication system to ensure that only authorized users can access specific pages and features.</li>
         <li><b>Security</b>: Appropriate security measures are in place to protect user data and prevent unauthorized access.</li>
     </ul>
+
+    
